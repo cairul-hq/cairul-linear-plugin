@@ -12,7 +12,7 @@ import {
   text,
   verdict,
   z,
-} from '@cairul/plugin-kit';
+} from '@cairul/pdk';
 
 export default function linear(options) {
   const api = connection(options, {
